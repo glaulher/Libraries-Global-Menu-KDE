@@ -99,3 +99,14 @@ Here they are less libraries, and some distributions like **KDE NEON** already h
         $ sudo apt-get install appmenu-gtk3-module
 
 ```
+## RedHat and its derivatives
+
+In this case it is not possible to do it, for the simple fact that it does not exist as such. So you could try to compile them. Here is an image and a person who asked this question a long time ago on reddit:
+
+**Link:** https://www.reddit.com/r/Fedora/comments/d3t5gp/kde_global_menu_for_gtk_fedora_30/
+
+ <div align="center">
+    <h3>
+    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/02.png" align="center" height="420px">
+    </h3>
+	</div>
