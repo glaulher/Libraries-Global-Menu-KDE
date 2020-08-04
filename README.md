@@ -77,3 +77,18 @@ I want to mention that these last 2 libraries are compiled, so they will take a 
 
 ```
 
+**Once you have all installed as a recommendation, restart your PC to apply changes and so that the installed applications that need it recognize it.**
+
+
+## Debian and its derivatives
+
+Here they are less libraries, and some distributions like **KDE NEON** already have them installed so you would only have to install this:
+
+```bash
+	$ sudo apt-get install appmenu-gtk-module-common
+	
+	$ sudo apt-get install appmenu-gtk2-module
+
+        $ sudo apt-get install appmenu-gtk3-module
+
+```
