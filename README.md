@@ -56,5 +56,23 @@ Link to this repositorie (AUR): https://aur.archlinux.org/packages/lib32-libdbus
 
 ```
 
-**64 Bits Libraries
+**64 Bits Libraries**
+
+```bash
+	$ yay -S libdbusmenu-glib
+
+	$ yay -S libdbusmenu-gtk2
+
+	$ yay -S libdbusmenu-gtk3
+
+```
+
+I want to mention that these last 2 libraries are compiled, so they will take a long time. Still it helps a lot to add some Qt apps to this fabulous global menu
+```bash
+	$ yay -S libdbusmenu-qt5
+	
+	$ yay -S libdbusmenu-qt4
+
+
+```
 
