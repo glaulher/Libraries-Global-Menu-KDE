@@ -84,6 +84,13 @@ I want to mention that these last 2 libraries are compiled, so they will take a 
 
 Here they are less libraries, and some distributions like **KDE NEON** already have them installed so you would only have to install this:
 
+ <div align="center">
+    <h3>
+    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/02.png" align="center" height="800px">
+    </h3>
+	</div>
+
+
 ```bash
 	$ sudo apt-get install appmenu-gtk-module-common
 	
