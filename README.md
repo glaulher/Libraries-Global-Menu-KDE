@@ -107,6 +107,6 @@ In this case it is not possible to do it, for the simple fact that it does not e
 
  <div align="center">
     <h3>
-    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/02.png" align="center" height="420px">
+    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/03.png" align="center">
     </h3>
 	</div>
