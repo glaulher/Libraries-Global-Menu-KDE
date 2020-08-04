@@ -3,11 +3,9 @@
 **What is this?**
 
 These libraries allow you to have a little more compatibility with the global menu of KDE PLASMA, by this I mean ELECTRON applications, VS Code, among others they are not activated in this global menu in some Linux distributions, so in this repository you will find the way to install them.
-<div align="center">
     <h3>
     	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/01.jpg" align="center" height="200px">
     </h3>
-    <p align="center">
 
 ## Arch Linux and its derivatives
 
