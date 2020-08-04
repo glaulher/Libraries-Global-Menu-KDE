@@ -101,7 +101,7 @@ Here they are less libraries, and some distributions like **KDE NEON** already h
 ```
 ## RedHat and its derivatives
 
-In this case it is not possible to do it, for the simple fact that it does not exist as such. So you could try to compile them. Here is an image and a person who asked this question a long time ago on reddit:
+**In this case it is not possible to do it, for the simple fact that it does not exist as such. So you could try to compile them. Here is an image and a person who asked this question a long time ago on reddit:**
 
 **Link:** https://www.reddit.com/r/Fedora/comments/d3t5gp/kde_global_menu_for_gtk_fedora_30/
 
