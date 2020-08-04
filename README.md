@@ -36,3 +36,19 @@ In my case I have a **CPU: AMD A8-7410 APU (4) @ 2,200GHz** and it took me about
 	$ yay -S lib32-libdbusmenu-gtk3
 
 ```
+
+**Attention**
+
+This last library may not be installed as it may give you a key error, in that case you must configure your GPG key deposit to try to install it, anything you want to see regarding this library I leave you a link to its repository.**Something I want to mention is that it is very old and has no support as such, its last update was 3 years ago**. 
+
+Link to this repositorie (AUR): https://aur.archlinux.org/packages/lib32-libdbusmenu-qt/
+
+**In case you have no problems downloading, I mention that it will take some time to compile**
+
+```bash
+	$ yay -S lib32-libdbusmenu-qt
+
+```
+
+**64 Bits Libraries
+
