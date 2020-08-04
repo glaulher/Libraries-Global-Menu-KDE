@@ -69,7 +69,7 @@ Link to this repositorie (AUR): https://aur.archlinux.org/packages/lib32-libdbus
 
 ```
 
-I want to mention that these last 2 libraries are compiled, so they will take a long time. Still it helps a lot to add some Qt apps to this fabulous global menu
+I want to mention that these last 2 libraries YOU NEED TO compile them, so they will take a long time. Still it helps a lot to add some Qt apps to this fabulous global menu
 ```bash
 	$ yay -S libdbusmenu-qt5
 	
