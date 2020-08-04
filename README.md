@@ -86,7 +86,7 @@ Here they are less libraries, and some distributions like **KDE NEON** already h
 
  <div align="center">
     <h3>
-    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/02.png" align="center" height="380px">
+    	<img src="https://github.com/Hblanqueto/Libreries-Global-Menu-KDE/blob/master/Screenshots/02.png" align="center" height="420px">
     </h3>
 	</div>
 
