@@ -32,6 +32,7 @@ I want to mention right now that all are downloaded from the AUR, so if you do n
 
 **32 Bits Libraries**
 Something I want to mention right now is that some of these libraries are going to be compiled and their duration may take a little. In case you have knowledge of how to do this you will have no problems.
+
 In my case I have a **CPU: AMD A8-7410 APU (4) @ 2,200GHz** and it took me about **3 hours**
 
 ```bash
