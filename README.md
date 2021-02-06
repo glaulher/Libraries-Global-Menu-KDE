@@ -1,4 +1,4 @@
-# Libreries Global Menu KDE
+# Libraries Global Menu KDE
 
 **What is this?**
 
