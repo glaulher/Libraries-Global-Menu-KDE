@@ -98,6 +98,8 @@ Here they are less libraries, and some distributions like **KDE NEON** already h
 	$ sudo apt-get install appmenu-gtk2-module
 
         $ sudo apt-get install appmenu-gtk3-module
+	
+	$ sudo apt-get install libdbusmenu-glib4
 
 ```
 ## RedHat and its derivatives
